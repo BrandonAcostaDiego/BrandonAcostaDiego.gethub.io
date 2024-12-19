@@ -16,7 +16,7 @@ Aspiring AI/ML Developer and Computer Science student at Colorado State Universi
 ### Education
 - Colorado State University (Online)
   - Computer Science
-  - Relevant Coursework: Java, Python, [other courses]
+  - Relevant Coursework: Java, Python
 
 ### Professional Experience
 - Production Worker (Current)
